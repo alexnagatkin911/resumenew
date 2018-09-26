@@ -1,0 +1,17 @@
+git --version
+python3 --version
+python --version
+ruby --version
+rails --version
+sqlite3 --version
+nano --version
+git clone https://github.com/DePaul-deBettencourt/DePaul-deBettencourt.github.io.git orgresume
+cd orgresume
+dir/p
+nano index.html
+dir/p
+git add .
+git commit -m "maybe this will work"
+git remote -v
+git push -u origin master
+doskey /history >it339history0911.txt
